@@ -1,6 +1,6 @@
 export default {
   // the site's root Notion page (required)
-  rootNotionPageId: '7e23ae9887744847977e71953fd3dac6',
+  rootNotionPageId: 'd4d5c8cc247e4e75baaf5c20e6b44382',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,16 +8,16 @@ export default {
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://zxcxyy.vercel.app/',
   author: 'xinz zhang',
 
   // open graph metadata (optional)
   description: 'xinz\'s Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  // twitter: 'transitive_bs',
+  github: 'hereTac',
+  // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
