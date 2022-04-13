@@ -1,6 +1,6 @@
 export default {
   // the site's root Notion page (required)
-  rootNotionPageId: '655486e7335b412b8b44696dad572f51',
+  rootNotionPageId: '7e23ae9887744847977e71953fd3dac6',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -9,10 +9,10 @@ export default {
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  author: 'xinz zhang',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'xinz\'s Site',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
